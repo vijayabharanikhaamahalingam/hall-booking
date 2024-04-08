@@ -26,18 +26,34 @@ Through this task I learned to create express server, API endpoints and usage of
 
 I used Postman to test my api endpoints are working fine.
 
-## Website
+## Website(Render)
 
-[Hall-Booking-API]()
+[Hall-Booking-API](https://hall-booking-un91.onrender.com)
 
 
 ## API Documentation
 
-[Click here to view API Documentation]()
+[Click here to view API Documentation](https://documenter.getpostman.com/view/24200691/2sA2xh2YJx)
 
 ## Screenshots
 
+All Rooms
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/ea1744dc-d9ac-4fe4-ae76-40983521c3aa)
 
+create Rooms
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/7b6bcd75-e587-48aa-ac0a-06e2527332de)
+
+room Booking
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/b61b537a-8f6b-4759-bc75-1024f5fd945f)
+
+all Booked Room Details
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/00aa7763-04be-4f36-861a-8f2dfef2ef22)
+
+all Booked Customer Details
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/9f720c6d-3526-422e-a9fc-d7a9fa6f94c3)
+
+customer Book Details
+![image](https://github.com/Prakash-V-S/hall-booking/assets/141955456/1f76c759-463b-4522-96f3-f5e319846ca7)
 
 ## Setup
 
