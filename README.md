@@ -1,7 +1,7 @@
 
 # Hall-Booking-API
 
-This is my Hall Booking API which was designed by me using NodeJs and ExpressJS. 
+This is my Hall Booking API which was designed by me using NodeJs and ExpressJS.
 
 ## Features
 
