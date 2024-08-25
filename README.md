@@ -1,7 +1,7 @@
 
 # Hall-Booking-API
 
-This is my Hall Booking API which was designed by me using NodeJs and ExpressJS. It's Guvi-Zen class Roadmap session: Day-38 and Nodejs- Day -2 Task.
+This is my Hall Booking API which was designed by me using NodeJs and ExpressJS. 
 
 ## Features
 
